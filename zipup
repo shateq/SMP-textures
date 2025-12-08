@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+(cd ./bum-smp-textures; zip -r ../bum-smp.zip ./*)
